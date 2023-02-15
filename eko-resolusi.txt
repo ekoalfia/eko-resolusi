@@ -3,3 +3,5 @@ WPU Resolusi
 - Membuat Forum Diskusi
 - Cita-Cita Specilalist Dev-Ops
 - Kolaborasi dengan lebih banyak Expert
+- Docker
+- Kubernetes
